@@ -1,0 +1,28 @@
+div.progbar{
+    background-color: dimgray;
+                padding: 20px;
+                margin: 30px;
+    text-align: center;
+}
+
+.circular--square {
+    border-radius: 50%;
+    margin: 20px;
+    height: 40%;
+    width: 40%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+div.gambar{
+    text-align: center;
+}
+
+div.teks{
+    font-size: 150%
+}
